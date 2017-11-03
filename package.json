@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Tammy12/package-test/issues"
   },
-  "homepage": "https://github.com/Tammy12/package-test#readme"
+  "homepage": "https://github.com/Tammy12/package-test#readme",
+  "dependencies": {}
 }
